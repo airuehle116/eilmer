@@ -8,4 +8,9 @@
 	"name": "eilmer",
 	"sourcePaths": ["."],
 	"importPaths": [".", ".."],
+	"dependencies": {
+		"gperftools_d": {
+			"path": "../extern/gperftools_d"
+		}
+	}
 }
